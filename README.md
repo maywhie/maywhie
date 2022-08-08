@@ -7,7 +7,7 @@
 - 😊 Pronouns: she/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript.
-- - 👀 I’m interested in web and cloud development.
+- 👀 I’m interested in web and cloud development.
 - 💞️ I’m looking to collaborate on web projects.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, cloud Engineer, or frontend Engineer (Intern or Junior level).
